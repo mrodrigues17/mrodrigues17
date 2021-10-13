@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-I am a data analyst at Claro Healthcare (a healthcare consulting firm) and recently finished DePaul's MS in Data Science Program.
+I'm Max Rodrigues and here is some information about myself:
+
+<ul>
+  
+  <li>test</li>
+  
+</ul>
+
+a data analyst at Claro Healthcare (a healthcare consulting firm) and recently finished DePaul's MS in Data Science Program.
 
 My undergraduate degree was in finance, but I gained an interest in statistics and data science in early 2017. I have two years experience working in a financial services firm managing expenses, two years of experience in research assistant roles, and have worked as an analyst for Claro Healthcare since March 2018.
 
