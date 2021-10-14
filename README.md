@@ -7,7 +7,7 @@ I'm Max Rodrigues and here is some information about myself:
   
   * I'm a data analyst at Claro Healthcare. In addition to my duties of getting, cleaning, and analyzing data in SQL and Excel, I've built tools with Excel macros that have significantly reduced the manual labor involved in monthly reporting for certain clients (in one case reducing the time from approximately 16 hours to 30 minutes).
   
-  * I have experience in academic research roles in psychology and neuroscience with some [publications](https://www.semanticscholar.org/author/Max-Rodrigues/1379870572)
+  * I have experience in academic research roles in psychology and behavioral economics with some [publications](https://www.semanticscholar.org/author/Max-Rodrigues/1379870572)
   
  
 You can download my resume [here](https://github.com/mrodrigues17/mrodrigues17.github.io/raw/master/m_rodrigues_resume_6.10.21.pdf). You can also reach me at <mrod1791@gmail.com>.
