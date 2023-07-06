@@ -7,7 +7,7 @@ I'm Max Rodrigues and here is some information about myself:
   
   * I'm a data scientist at Validate Health. 
   
-  * I have experience in academic research roles in psychology and behavioral economics with some [publications](https://www.semanticscholar.org/author/Max-Rodrigues/1379870572)
+  * I have experience in academic research roles in behavioral economics with some [publications](https://www.semanticscholar.org/author/Max-Rodrigues/1379870572)
   
  
 You can download my resume [here](https://github.com/mrodrigues17/mrodrigues17.github.io/raw/master/m_rodrigues_resume_6.10.21.pdf). You can also reach me at <mrod1791@gmail.com>.
