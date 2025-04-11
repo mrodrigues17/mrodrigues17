@@ -5,7 +5,7 @@ labels: [vh-standard]
 assignees: []
 
 body:
-  - type: input
+  - type: textarea
     id: context
     attributes:
       label: Context
@@ -13,7 +13,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: problem
     attributes:
       label: Problem
@@ -21,13 +21,19 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: solution
     attributes:
       label: Proposed Solution
       description: What is the proposed solution or next steps?
     validations:
       required: true
+
+  - type: input
+    id: priority
+    attributes:
+      label: Level of Priority
+      description: Level of priority for this request (e.g., high, medium, low).
 
   - type: textarea
     id: specs
