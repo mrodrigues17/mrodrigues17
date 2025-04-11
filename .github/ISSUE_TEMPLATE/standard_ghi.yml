@@ -1,0 +1,58 @@
+name: 🧱 VH Standard GHI
+description: Template for general GHI requests
+title: "<Client Acronym>: <Short Description>"
+labels: [vh-standard]
+assignees: []
+
+body:
+  - type: input
+    id: context
+    attributes:
+      label: Context
+      description: What is the background or situation that led to this request?
+      placeholder: "e.g., ACO requested updated StaticACO data due to new claims from 2024"
+    validations:
+      required: true
+
+  - type: input
+    id: problem
+    attributes:
+      label: Problem
+      description: What issue are we trying to solve?
+      placeholder: "e.g., Previous run excluded NPIs due to billing migration"
+    validations:
+      required: true
+
+  - type: input
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: What is the proposed solution or next steps?
+      placeholder: "e.g., Rerun StaticACO with new TIN-CCN-NPI list"
+    validations:
+      required: true
+
+  - type: textarea
+    id: specs
+    attributes:
+      label: Specifications (Optional)
+      description: List any known technical specs, parameters, or assumptions.
+      placeholder: |
+        - Participation years: 2023, 2024
+        - Includes service component: TRUE
+        - TIN-level only: TRUE
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: steps
+    attributes:
+      label: Workflow Steps
+      description: Select completed steps or keep as checklist for tracking progress.
+      options:
+        - label: Define scope and confirm with SME
+        - label: Create config or data request
+        - label: Run and validate results
+        - label: Submit and track download request
+        - label: Create and assign pull request for review
+        - label: Merge PR and close GHI
